@@ -1,5 +1,5 @@
 body {
-    color: pink;
+    color: rgb(68, 1, 12);
     background: rgb(245, 201, 201);
     margin: 0px;
 }
@@ -13,7 +13,7 @@ header {
 /* código omitido */
 
 section {
-    background: rgb(59, 0, 20);
+    background: #fdadad;
     padding-bottom: 80px;
     padding-top: 80px;
     display: flex;
