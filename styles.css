@@ -10,7 +10,7 @@ header {
     font-size: 32px;
     color: rgb(51, 1, 1);
 }
-/* código omitido */
+
 
 section {
     background: rgb(44, 0, 8);
@@ -39,6 +39,30 @@ img {
   }
   
   section {
+    background: rgb(184, 156, 213);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+  }
+  
+  
+  section {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+
+  .chamada {
+    background: rgb(184, 156, 213);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+  }
+
+  /* código omitido */
+
+.categoria {
     padding-left: 20px;
     padding-right: 20px;
   }
