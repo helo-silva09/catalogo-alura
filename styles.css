@@ -12,8 +12,8 @@ header {
 }
 
 
-section {
-    background: rgb(44, 0, 8);
+chamada {
+    background: rgb(184, 156, 213);
     padding-bottom: 80px;
     padding-top: 80px;
     display: flex;
@@ -24,45 +24,25 @@ section {
     margin-right: 5%;
 }
 
-h1{
-    font-size: 36px;
+h1 {
+    font-size: 40px;
+}
+
+p {
+    font-size: 20px;
 }
 
 img {
     height: 200px;
-  }
+}
 
-  .categoria-videos {
+.categoria-videos {
     display: flex;
     overflow-x: auto;
     gap: 10px;
-  }
-  
-  section {
-    background: rgb(184, 156, 213);
-    padding-bottom: 80px;
-    padding-top: 80px;
-    display: flex;
-    justify-content: center;
-  }
-  
-  
-  section {
-    padding-left: 20px;
-    padding-right: 20px;
-  }
-
-  .chamada {
-    background: rgb(184, 156, 213);
-    padding-bottom: 80px;
-    padding-top: 80px;
-    display: flex;
-    justify-content: center;
-  }
-
-  /* código omitido */
+}
 
 .categoria {
     padding-left: 20px;
     padding-right: 20px;
-  }
+}
